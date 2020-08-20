@@ -10,7 +10,7 @@ setup(
       ''',
       url='https://github.com/LeonardoClemente23/sklearn_transforms/',
       author='Leonardo Clemente',
-      author_email='leonardo.sosilva@gmail.com',
+      author_email='leonardo.sosilva53@gmail.com',
       license='BSD',
       packages=[
             'my_custom_sklearn_transforms'
